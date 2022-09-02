@@ -1,4 +1,4 @@
-<p align= "center"> <img width="350" src= "src/assets/tela.png"> </p>
+<p align= "center"> <img width="350" src= "https://github.com/Adamscastillo/CALCULADORA-DE-IMC/blob/a8e71e96b3cb97c1d29ed6ed6d2ba024c17f3267/src/assents/tela.png"> </p>
 
 
 # Getting Started with Create React App
